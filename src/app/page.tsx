@@ -113,7 +113,7 @@ export default function JamesResumeSite() {
               <span className={chip}>Full‑stack product sense</span>
             </div>
 
-            {/* Contact moved down into hero, chunkier spacing */}
+            {/* Contact moved down into  hero, chunkier spacing */}
             <div className={`${card} mt-6 p-4 md:p-5 w-full max-w-lg backdrop-blur`}> 
               <div className="grid gap-3 text-sm">
                 <a href="mailto:james@jamesssystems.info" className="flex items-center gap-3 hover:opacity-85">
